@@ -2,7 +2,7 @@
 
 Data & software engineer based in Morocco 🇲🇦. I build data pipelines, ML models and full-stack web apps, and I like turning messy data into something people can actually use.
 
-Graduate of the **Licence IDDL** (Data Engineering & Software Development) at **FST Al-Hoceïma**. Currently looking for internships and freelance work, and preparing for graduate studies.
+Master 1 student in **Data Science & Engineering** and graduate of the **Licence IDDL** (Data Engineering & Software Development) at **FST Al-Hoceïma**. Currently looking for internships and freelance work.
 
 ## 🚀 Projects
 
